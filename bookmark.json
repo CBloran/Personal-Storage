@@ -1,11 +1,11 @@
 {
-  // "$schema": "https://github.com/CBloran/Personal-Storage/blob/main/bookmarks.1-0-0.schema.json",
+  "$schema": "https://github.com/CBloran/Personal-Storage/blob/main/bookmarks.1-0-0.schema.json",
   "name": "Mes Signets Firefox",
   "bookmarks": [
     {
       "title": "Test GitHub",
       "url": "https://github.com"
     }
-    // ... vos autres signets
+    
   ]
 }
