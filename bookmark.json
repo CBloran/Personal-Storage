@@ -1,4 +1,9 @@
 {
-  "name": "site usefull",
-  "bookmarks": []
+  "name": "Mes Signets Firefox",
+  "bookmarks": [
+    {
+      "title": "Test GitHub",
+      "url": "https://github.com"
+    }
+  ]
 }
