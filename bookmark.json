@@ -1,4 +1,8 @@
 {
-  "meta": {},
+  "$schema": "./bookmarks.1-0-0.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "lastModified": "2024-01-01T00:00:00.000Z"
+  },
   "children": []
 }
