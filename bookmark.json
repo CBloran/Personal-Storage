@@ -1,19 +1,21 @@
 {
-
-
-  "name": "Mes Signets Firefox",
-
+  "$schema": "https://frederikb.github.io/bookmarksync/schemas/bookmarks.1-0-0.schema.json",
+  "name": "Mes Signets",
   "bookmarks": [
-
     {
-
-      "title": "Test GitHub",
-
-      "url": "https://github.com"
-
+      "title": "Exemple de Signet",
+      "url": "https://www.example.com",
+      "type": "bookmark"
+    },
+    {
+      "title": "Dossier Exemple",
+      "type": "folder",
+      "children": [
+        {
+          "title": "Signet dans un dossier",
+          "url": "https://www.example.org"
+        }
+      ]
     }
-
-
   ]
-
 }
